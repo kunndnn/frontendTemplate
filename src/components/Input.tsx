@@ -36,7 +36,7 @@ const Input = ({
           disabled={disabled}
           maxLength={maxLength}
         />
-        {errorMessage && <span className={errorClassName}>{errorMessage}</span>}
+        {errorMessage && <p className={errorClassName}>{errorMessage}</p>}
       </div>
     );
   }
