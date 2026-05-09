@@ -15,13 +15,13 @@ const Sidebar = () => {
       <nav className="flex flex-col gap-3">
         {adminSidebarLinks.map((link) => (
           <NavLink key={link.to} to={link.to}>
-            <div className="flex gap-2 text-white">
+            <div className="flex gap-2 text-white  p-1">
               {link.icon} {link.label}
             </div>
           </NavLink>
         ))}
       </nav>
-      <Button className="bg-error text-white">Logout</Button>
+      <Button className="bg-red-600">Logout</Button>
     </aside>
   );
 };
