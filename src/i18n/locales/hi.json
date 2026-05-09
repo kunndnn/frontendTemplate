@@ -1,0 +1,32 @@
+{
+  "auth": {
+    "login": "लॉगिन",
+    "email": "ईमेल पता",
+    "password": "पासवर्ड",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "invalidEmail": "अमान्य ईमेल",
+    "passwordMinLength": "पासवर्ड कम से कम 6 अक्षरों का होना चाहिए",
+    "welcomeBack": "वापसी पर स्वागत है!",
+    "enterDetails": "लॉगिन करने के लिए कृपया अपना विवरण दर्ज करें",
+    "signIn": "साइन इन ->",
+    "loading": "लोड हो रहा है...",
+    "orContinueWith": "या इसके साथ जारी रखें",
+    "dontHaveAccount": "क्या आपके पास खाता नहीं है? ",
+    "signUp": "साइन अप करें",
+    "toggle": "टॉगल",
+    "comingSoon": "जल्द आ रहा है।",
+    "enterPassword": "पासवर्ड दर्ज करें",
+    "enterEmail": "john@example.com"
+  },
+
+  "dashboard": {
+    "welcome": "स्वागत है",
+    "totalUsers": "कुल उपयोगकर्ता",
+    "logout": "लॉग आउट"
+  },
+
+  "common": {
+    "save": "सेव करें",
+    "cancel": "रद्द करें"
+  }
+}

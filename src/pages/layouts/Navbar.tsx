@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { navlinks } from "../../config/constants";
+import LanguageSwitcher from "../../components/LanguageSwitcher";
 
 const NavItem = ({
   to,
@@ -36,6 +37,7 @@ const Navbar = () => {
               className={link.className}
             />
           ))}
+          <LanguageSwitcher />
         </div>
       </div>
     </nav>

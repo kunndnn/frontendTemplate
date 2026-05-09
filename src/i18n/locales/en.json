@@ -1,0 +1,32 @@
+{
+  "auth": {
+    "login": "Login",
+    "email": "Email Address",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "invalidEmail": "Invalid email",
+    "passwordMinLength": "Password must be at least 6 characters",
+    "welcomeBack": "Welcome Back!",
+    "enterDetails": "Please enter your details to login",
+    "signIn": "Sign In ->",
+    "loading": "Loading...",
+    "orContinueWith": "or continue with",
+    "dontHaveAccount": "Don't have an account? ",
+    "signUp": "Sign Up",
+    "toggle": "Toggle",
+    "comingSoon": "coming soon.",
+    "enterPassword": "Enter password",
+    "enterEmail": "john@example.com"
+  },
+
+  "dashboard": {
+    "welcome": "Welcome",
+    "totalUsers": "Total Users",
+    "logout": "Logout"
+  },
+
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}
